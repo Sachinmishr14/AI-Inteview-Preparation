@@ -34,18 +34,6 @@ Backend
 - Multer
 - Puppeteer
 
-Project Structure
-
-AI-Interview-Preparation/
-├── Backend/
-│   ├── server.js
-│   ├── package.json
-│   └── src/
-└── Frontend/
-    ├── package.json
-    ├── src/
-    └── public/
-
 Prerequisites
 
 - Node.js and npm
